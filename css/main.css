@@ -50,3 +50,7 @@ ul.posts li {
     grid-template: 1fr 1fr / 1fr 1fr;
     width: 500px;
 }
+
+.container{
+    background: #999;
+}
