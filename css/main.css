@@ -47,8 +47,8 @@ ul.posts li {
 
 .blurb{
     display: grid;
-    grid-template: 1fr 1fr 1fr / 2fr 1fr;
-    width: 800px;
+    grid-template: 2fr 1fr / 1fr 1fr 1fr;
+    width: 1000px;
 }
 
 .container{
