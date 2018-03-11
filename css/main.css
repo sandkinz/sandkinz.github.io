@@ -29,7 +29,7 @@ p {
     font-size: 1.5em;
     line-height: 1.4em;
     color: #333;
-    color: #fff;
+    color: #000;
 }
 footer {
     border-top: 1px solid #d5d5d5;
@@ -47,8 +47,8 @@ ul.posts li {
 
 .blurb{
     display: grid;
-    grid-template: 1fr 1fr / 1fr 1fr;
-    width: 500px;
+    grid-template: 1fr 1fr 1fr / 2fr 1fr;
+    width: 800px;
 }
 
 .container{
